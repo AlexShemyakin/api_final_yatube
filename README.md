@@ -7,7 +7,7 @@ git clone https://github.com/AlexShemyakin/api_final_yatube.git
 ```
 
 ```
-cd kittygram
+cd api_final_yatube
 ```
 
 Cоздать и активировать виртуальное окружение:
@@ -40,4 +40,11 @@ python3 manage.py migrate
 
 ```
 python3 manage.py runserver
+```
+
+Автор и поддержка:
+
+```
+Шемякин Александр
+https://github.com/AlexShemyakin
 ```
